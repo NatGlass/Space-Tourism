@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 
 export default function Close(ref, handler) {
     // close mobile nav menu when clicked outside of it //
